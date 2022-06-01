@@ -1,5 +1,6 @@
 # [Codecov](https://codecov.io) Gradle Example
 
+[![codecov](https://codecov.io/gh/glozanoa/test-private-codecov/branch/master/graph/badge.svg?token=dqV51nnUl2)](https://codecov.io/gh/glozanoa/test-private-codecov)
 [![Coverage-Workflow](https://github.com/glozanoa/test-private-codecov/actions/workflows/coverage.yml/badge.svg)](https://github.com/glozanoa/test-private-codecov/actions/workflows/coverage.yml)
 
 ## Guide
