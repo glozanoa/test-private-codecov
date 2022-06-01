@@ -34,7 +34,7 @@ public class HelloWorldTest {
 	
 	@Nested
 	public class MathTest {
-		HelloWorld.Math math = new HelloWorld.Math();
+		private static HelloWorld.Math math = new HelloWorld.Math();
 		
 		@Test
 		public void onePlusOneTest(){
