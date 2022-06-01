@@ -34,8 +34,12 @@ public class HelloWorldTest {
 	
 	@Nested
 	public class MathTest {
-		private static HelloWorld.Math math = new HelloWorld.Math();
-		
+		private HelloWorld.Math math;
+
+		@BeforeEach
+		public void initMath(){
+			math = new HelloWorld.Math();
+		}
 		@Test
 		public void onePlusOneTest(){
 			assertEquals(2, math.add(1, 1));	

@@ -10,7 +10,7 @@ public class HelloWorld {
 		}
 	}
 	
-	public class Math {
+	public static class Math {
 		public int add(int x, int y){ return x+y; }
 		public int subs(int x, int y){ return x-y; }
 	}
