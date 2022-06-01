@@ -18,13 +18,13 @@ jacocoTestReport {
     dependsOn test
 }
 
-//check.dependsOn jacocoTestReport
-
-
 test {
     useJUnitPlatform()
-    //finalizedBy jacocoTestReport // report is always generated after tests run
 }
+
+/*
+ * display unit tests excution result in console
+ */
 
 import org.gradle.api.tasks.testing.logging.TestExceptionFormat
 import org.gradle.api.tasks.testing.logging.TestLogEvent
