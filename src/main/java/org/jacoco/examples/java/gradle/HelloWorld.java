@@ -9,5 +9,10 @@ public class HelloWorld {
 			return "Hello World!";
 		}
 	}
+	
+	public class Math {
+		public int add(int x, int y){ return x+y; }
+		public int subs(int x, int y){ return x-y; }
+	}
 
 }
