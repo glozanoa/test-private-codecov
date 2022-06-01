@@ -1,7 +1,6 @@
 # [Codecov](https://codecov.io) Gradle Example
 
-[![codecov](https://codecov.io/gh/glozanoa/example-gradle/branch/master/graph/badge.svg?token=MWQ7JLRCMK)](https://codecov.io/gh/glozanoa/example-gradle)
-[![Coverage-Workflow](https://github.com/glozanoa/example-gradle/actions/workflows/coverage.yml/badge.svg)](https://github.com/glozanoa/example-gradle/actions/workflows/coverage.yml)
+[![Coverage-Workflow](https://github.com/glozanoa/test-private-codecov/actions/workflows/coverage.yml/badge.svg)](https://github.com/glozanoa/test-private-codecov/actions/workflows/coverage.yml)
 
 ## Guide
 ### Travis Setup
